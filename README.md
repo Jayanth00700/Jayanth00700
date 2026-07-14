@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">My name is Jayanth and I'm a Computer Science Student, from India.🤩 </p>
+<p data-importer="text" align="left">My name is Jayanth and I'm a Computer Science Student from India.🤩 </p>
 
 
 ###
