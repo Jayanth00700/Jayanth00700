@@ -1,8 +1,8 @@
-<h1 data-importer="text" align="left">Hey!!🫱🏻‍🫲🏽 Welcome To My Profile!</h1>
+<h1 data-importer="text" align="left">Hey!!🫱🏻‍🫲🏽Iam Jayanth</h1>
 
 ###
 
-<p data-importer="text" align="left">My name is Jayanth and I'm a Computer Science Student from India. </p>
+<p data-importer="text" align="left">A Computer Science Student from India. </p>
 
 
 
